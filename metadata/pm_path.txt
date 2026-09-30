@@ -1,0 +1,5 @@
+package:/data/app/~~87gfJq3f_XPhSPm0z05UIw==/com.supercell.clashroyale-upp6pAhw2JsqL6cGho9FHA==/base.apk
+package:/data/app/~~87gfJq3f_XPhSPm0z05UIw==/com.supercell.clashroyale-upp6pAhw2JsqL6cGho9FHA==/split_config.arm64_v8a.apk
+package:/data/app/~~87gfJq3f_XPhSPm0z05UIw==/com.supercell.clashroyale-upp6pAhw2JsqL6cGho9FHA==/split_config.ru.apk
+package:/data/app/~~87gfJq3f_XPhSPm0z05UIw==/com.supercell.clashroyale-upp6pAhw2JsqL6cGho9FHA==/split_config.xxhdpi.apk
+package:/data/app/~~87gfJq3f_XPhSPm0z05UIw==/com.supercell.clashroyale-upp6pAhw2JsqL6cGho9FHA==/split_install_time_asset_pack.apk

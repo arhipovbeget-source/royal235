@@ -1,0 +1,1 @@
+com.supercell.clashroyale 10196 0 /data/user/0/com.supercell.clashroyale default:targetSdkVersion=35 3003 0 160402012 1 com.android.vending

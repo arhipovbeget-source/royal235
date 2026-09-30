@@ -1,0 +1,1 @@
+u0_a196       9084   783 47390968 740488 SyS_epoll_wait     0 S com.supercell.clashroyale

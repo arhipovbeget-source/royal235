@@ -1,0 +1,132 @@
+[
+  {
+    "path": "dump_log.txt",
+    "size": 1760,
+    "sha256": "c3b11f12a29e956f6405b2576ef76319f34443d43171af75e177a1f2356c3e45"
+  },
+  {
+    "path": "apk/base.apk",
+    "size": 48960587,
+    "sha256": "6f2b0caf7dc10b635aeea2949765492937781ea901650f4abbb929776ba522d1"
+  },
+  {
+    "path": "apk/split_config.arm64_v8a.apk",
+    "size": 64394454,
+    "sha256": "db726d777a1b030ec92f7036db13df6ad5747454674e4d1837ccc9d5a85fef6e"
+  },
+  {
+    "path": "apk/split_config.ru.apk",
+    "size": 86226,
+    "sha256": "dba39a30c5468a00deaa293d0a40fb12a376191e9a2095316c2dad96d81f8da2"
+  },
+  {
+    "path": "apk/split_config.xxhdpi.apk",
+    "size": 129473,
+    "sha256": "5cc16f4619c1c795842bb99a608763633fc27f012655584cd6991c2aa9b4af2d"
+  },
+  {
+    "path": "apk/split_install_time_asset_pack.apk",
+    "size": 903583777,
+    "sha256": "046e1ff80abd73954bad675ee8c6b1f0e2283f79de64259b66bcca8f133b8f59"
+  },
+  {
+    "path": "archives/external_android_data.tar",
+    "size": 2048,
+    "sha256": "60a56c87f3f1ab56dc5bcc9a6331900cb8c97aca4e55e136be0f4d6f4fa4c971"
+  },
+  {
+    "path": "archives/private_data_data.tar",
+    "size": 271165440,
+    "sha256": "76c57b09c7ca82983cef8b7774a9f5a6e6f562d59b5eef66a5639e6cde1a5bda"
+  },
+  {
+    "path": "archives/private_data_user0.tar",
+    "size": 271165440,
+    "sha256": "f0212dc489f9e17a44280f67396d138e740ecd5615f96d683a2f46807ba03f01"
+  },
+  {
+    "path": "archives/private_data_user_de0.tar",
+    "size": 518656,
+    "sha256": "1b52602abb01eb30a1d919f433fcefa751ddeb1fbbf7da1d9a2c3ece7be8fb83"
+  },
+  {
+    "path": "metadata/android_props.txt",
+    "size": 51620,
+    "sha256": "d528c07b8efe4c72de6a84ab084137d8f7f5e3cb8d332fab438f30850fc5e996"
+  },
+  {
+    "path": "metadata/appops.txt",
+    "size": 521,
+    "sha256": "d7075e808e91d0fe42d1326b762a4ea5a3d07bd08513c1ae0a96b174eb15ae5c"
+  },
+  {
+    "path": "metadata/dumpsys_package.txt",
+    "size": 20430,
+    "sha256": "efa957815c63acc213465dddff8c2dfdf0041ab7c162ccbbb025ec549dd7424b"
+  },
+  {
+    "path": "metadata/mounts.txt",
+    "size": 97344,
+    "sha256": "846a295686dbd58b6fff063088f699b3244e70272273888bfef83b6423cbace4"
+  },
+  {
+    "path": "metadata/packages_list_match.txt",
+    "size": 141,
+    "sha256": "d683d283acaa375c1e34fd14b04387df25aa116ff05502c790ab23795adeff7a"
+  },
+  {
+    "path": "metadata/pm_dump.txt",
+    "size": 358058,
+    "sha256": "66c0a5a71c00dd6f1bc1085d5b3010078d805a1b749a3c4dd5d19fa80248d4bf"
+  },
+  {
+    "path": "metadata/pm_path.txt",
+    "size": 599,
+    "sha256": "3d189380c97180e64efbf473de996e64d1f5ed9a901854795a169ddcf84f190c"
+  },
+  {
+    "path": "metadata/processes.txt",
+    "size": 91,
+    "sha256": "b1cc8ea4fefe0a950ba81d9d904469dcbdc69d9af3cda2809017c4dcc1580478"
+  },
+  {
+    "path": "metadata/related_paths.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "special/assets.scdb",
+    "size": 22802432,
+    "sha256": "99ffb209d5c5ffaa682f85a21fd89ae43e60e50abb4af83c034c6476de7ebceb"
+  },
+  {
+    "path": "special/assets.scdb.sha256.txt",
+    "size": 79,
+    "sha256": "1fa67f29436ce60437aaa58e2f36452d31d833a4acf7b63949243aedc2a4cfdf"
+  },
+  {
+    "path": "trees/data_data.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "trees/data_user0.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "trees/data_user_de0.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "trees/sdcard_android_data.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "trees/sdcard_android_obb.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+]

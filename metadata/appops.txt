@@ -1,0 +1,10 @@
+Uid mode: CAMERA: ignore
+VIBRATE: allow; time=+46m5s971ms ago; duration=+10ms
+SYSTEM_ALERT_WINDOW: default; rejectTime=+43s146ms ago
+WAKE_LOCK: allow; time=+1d19h57m43s646ms ago; duration=+20ms
+CHANGE_WIFI_STATE: allow; time=+43s147ms ago
+WRITE_MEDIA_AUDIO: deny; rejectTime=+37m9s123ms ago
+WRITE_MEDIA_VIDEO: deny; rejectTime=+37m9s122ms ago
+WRITE_MEDIA_IMAGES: deny; rejectTime=+37m9s122ms ago
+MANAGE_EXTERNAL_STORAGE: default; rejectTime=+37m19s52ms ago
+NO_ISOLATED_STORAGE: deny; rejectTime=+37m19s53ms ago

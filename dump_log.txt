@@ -1,0 +1,50 @@
+CR Full Phone Dumper
+Package: com.supercell.clashroyale
+Output: C:\Users\Wega\Desktop\CR_Full_Phone_Dumper\CR_DUMP_20260930_040404
+
+=== ADB DEVICES ===
+List of devices attached
+1248bf39	device
+
+
+=== ROOT CHECK ===
+uid=0(root) gid=0(root) groups=0(root) context=u:r:magisk:s0
+
+
+=== METADATA ===
+
+=== APK / SPLIT APK ===
+[PULL] /data/app/~~87gfJq3f_XPhSPm0z05UIw==/com.supercell.clashroyale-upp6pAhw2JsqL6cGho9FHA==/base.apk
+[OK] base.apk (46.69 MB)
+[PULL] /data/app/~~87gfJq3f_XPhSPm0z05UIw==/com.supercell.clashroyale-upp6pAhw2JsqL6cGho9FHA==/split_config.arm64_v8a.apk
+[OK] split_config.arm64_v8a.apk (61.41 MB)
+[PULL] /data/app/~~87gfJq3f_XPhSPm0z05UIw==/com.supercell.clashroyale-upp6pAhw2JsqL6cGho9FHA==/split_config.ru.apk
+[OK] split_config.ru.apk (0.08 MB)
+[PULL] /data/app/~~87gfJq3f_XPhSPm0z05UIw==/com.supercell.clashroyale-upp6pAhw2JsqL6cGho9FHA==/split_config.xxhdpi.apk
+[OK] split_config.xxhdpi.apk (0.12 MB)
+[PULL] /data/app/~~87gfJq3f_XPhSPm0z05UIw==/com.supercell.clashroyale-upp6pAhw2JsqL6cGho9FHA==/split_install_time_asset_pack.apk
+[OK] split_install_time_asset_pack.apk (861.72 MB)
+
+=== SPECIAL FILES ===
+[PULL] /data/data/com.supercell.clashroyale/update/assets.scdb
+[OK] assets.scdb (21.75 MB)
+
+=== FILE TREES ===
+
+=== FULL DIRECTORY ARCHIVES ===
+[DUMP] /data/data/com.supercell.clashroyale
+[OK] private_data_data.tar (258.60 MB)
+[DUMP] /data/user/0/com.supercell.clashroyale
+[OK] private_data_user0.tar (258.60 MB)
+[DUMP] /data/user_de/0/com.supercell.clashroyale
+[OK] private_data_user_de0.tar (0.49 MB)
+[DUMP] /sdcard/Android/data/com.supercell.clashroyale
+[OK] external_android_data.tar (0.00 MB)
+[SKIP] Not found: /sdcard/Android/obb/com.supercell.clashroyale
+
+=== RELATED PATH SEARCH ===
+
+=== DONE ===
+Dump folder: C:\Users\Wega\Desktop\CR_Full_Phone_Dumper\CR_DUMP_20260930_040404
+Important: private app data may contain session/account secrets.
+Do not upload the whole dump publicly.
